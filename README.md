@@ -25,3 +25,11 @@ Ce projet est très court, il est plus adapté à des élèves de Première qui 
 # Fractales : Buddhabrot
 
 <https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5>
+
+# Documentation
+
+Pour Visual Studio Code vous pouvez utiliser ce plugin pour documenter (ajout de docstring)votre code :
+<https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring>
+
+
+Pycharm documente également automatiquement votre code. Pour les autres IDE (notamment ceux recommandés par l'éducation nationale) je ne sais pas par contre.
